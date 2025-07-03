@@ -21,19 +21,19 @@ Age Group Analysis – Bar chart showing patient count by age bracket.
 Referral Pattern – Visualization of patient referrals across different medical departments.
 
 ## Key Insights Ex. from July Report
-Total Patients: 464
-Average Wait Time: 34.72 minutes
-Satisfaction Score: 4.99 / 5 – indicating excellent service.
-Admission Status: 53% admitted, 47% not admitted.
-Timeliness: 58% patients attended on time, 42% experienced delays.
-Gender Distribution: Fairly balanced – 51% Female, 49% Male.
-Top Referrals:
-No Referral: 280 patients
-General Practice: 87 patients
-Orthopedics: 54 patients
-Age Distribution: Most patients fall in the 20–29 and 40–59 age brackets.
+-Total Patients: 464 <br>
+-Average Wait Time: 34.72 minutes
+-Satisfaction Score: 4.99 / 5 – indicating excellent service.
+-Admission Status: 53% admitted, 47% not admitted.
+-Timeliness: 58% patients attended on time, 42% experienced delays.
+-Gender Distribution: Fairly balanced – 51% Female, 49% Male.
+-Top Referrals:
+-No Referral: 280 patients
+-General Practice: 87 patients
+-Orthopedics: 54 patients
+-Age Distribution: Most patients fall in the 20–29 and 40–59 age brackets.
 
-# Tools & Techniques Used
+## Tools & Techniques Used
 Microsoft Excel
 Pivot Tables
 Charts (Bar, Pie, Donut)
