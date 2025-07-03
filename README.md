@@ -3,7 +3,9 @@ This Excel dashboard provides a visual analysis of emergency room data, includin
 
 # Features
 Dynamic Monthly Selection – View data for any selected month using an interactive slicer.
+
 Patient Volume Metrics – Total number of patients attended in a given month.
+
 Average Wait Time – Real-time computation of patient waiting time.
 Patient Satisfaction Score – Aggregated satisfaction rating out of 5.
 Admission Breakdown – Number and percentage of admitted vs. non-admitted patients.
