@@ -46,6 +46,9 @@ Conditional Formatting<br>
 Data Validation and Cleaning
 
 ## Repository Structure
-Data:<a href "https://github.com/Aarti07-spec/Hospital_Emergency_Room_Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv" </a> <br>
-Dashboard: Excel File (.xls) of the project <br>
-Images: Contains Screenshots of the dashboard for easy preview<br>
+Data: https://github.com/Aarti07-spec/Hospital_Emergency_Room_Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv <br>
+Dashboard: Excel File (.xls) of the project <br> [http://github.com/Aarti07-spec/Hospital_Emergency_Room_Dashboard/blob/main/Hospital%20project%20excel%20workbook.xlsx]
+Images: Contains hospital logo png and Screenshots of the final dashboard for easy preview<br>
+
+## Feedback & Collaboration
+Your feedback is welcome! If you'd like to collaborate on similar Projects or discuss data analysis opportunities, feel free to reach out.
