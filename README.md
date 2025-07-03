@@ -7,11 +7,17 @@ Dynamic Monthly Selection – View data for any selected month using an interact
 Patient Volume Metrics – Total number of patients attended in a given month.
 
 Average Wait Time – Real-time computation of patient waiting time.
+
 Patient Satisfaction Score – Aggregated satisfaction rating out of 5.
+
 Admission Breakdown – Number and percentage of admitted vs. non-admitted patients.
+
 Attendance Status – Pie chart showing delayed vs. on-time attendances.
+
 Gender-Based Analysis – Donut chart visualizing gender distribution of patients.
+
 Age Group Analysis – Bar chart showing patient count by age bracket.
+
 Referral Pattern – Visualization of patient referrals across different medical departments.
 
 # Key Insights Ex. from July Report
