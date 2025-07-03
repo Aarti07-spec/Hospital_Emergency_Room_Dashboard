@@ -45,3 +45,7 @@ Data Slicers for interactivity<br>
 Conditional Formatting<br>
 Data Validation and Cleaning
 
+## Repository Structure
+Data:<a href "https://github.com/Aarti07-spec/Hospital_Emergency_Room_Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv" </a> <br>
+Dashboard: Excel File (.xls) of the project <br>
+Images: Contains Screenshots of the dashboard for easy preview<br>
