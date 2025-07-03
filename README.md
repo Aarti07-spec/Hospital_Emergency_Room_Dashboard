@@ -20,7 +20,7 @@ Age Group Analysis – Bar chart showing patient count by age bracket.
 
 Referral Pattern – Visualization of patient referrals across different medical departments.
 
-# Key Insights Ex. from July Report
+## Key Insights Ex. from July Report
 Total Patients: 464
 Average Wait Time: 34.72 minutes
 Satisfaction Score: 4.99 / 5 – indicating excellent service.
